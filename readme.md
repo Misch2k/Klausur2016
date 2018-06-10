@@ -37,14 +37,14 @@ jedoch 1 Mismatch vorkommen darf ist das ok.
 ## Aufgabe 2 
 ### GUI Programmierung
 Erstellen Sie mit der QT Bibliothek ein Programm mit dem folgenden Gui:
-![Primary Check](https://www.github.com/Misch2k/Klausur2016/readme/gui.bmp)
+![Primary Check](https://raw.githubusercontent.com/Misch2k/Klausur2016/master/Readme/Gui.bmp)
 
 Wird der Button Start gedrückt, so wird geprüft ob die eingegebene Zahl eine Primzahl ist oder nicht.
 Das Resultat wird mit Hilfe eines Dialoges angezeigt.
-![Result](https://www.github.com/Misch2k/Klausur2016/readme/gui.bmp)
+![Result](https://raw.githubusercontent.com/Misch2k/Klausur2016/master/Readme/result.bmp)
 
 Ist der eingegebene Wert keine Zahl, so wird ebenfalls mit Hilfe eines Dialoges ein Fehler angezeigt.
-![Error](https://www.github.com/Misch2k/Klausur2016/readme/gui.bmp)
+![Error](https://raw.githubusercontent.com/Misch2k/Klausur2016/master/Readme/error.bmp)
 
 
 ## Aufgabe 3 
