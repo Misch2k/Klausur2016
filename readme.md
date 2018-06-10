@@ -23,16 +23,16 @@ Der Parameter maxNumberOfMismatches gibt an, wie viele Zeichen verschieden sein 
 trotzdem noch ein Match zu erreichen.   
 Sollte kein Match existieren, so liefert die Methode -1 zurück.  
   
-#### Beispiel:
-**Text:** GDFGHJDFFGJJGHJTYREYWERWETYDSGF
-**Pattern:** FFKJJ
-**maxNumberOfMismatches:** 1
-
-**Pos:** 012345678
-**Text:** GDFGHJDFFGJJGHJTYREYWERWETYDSGF
-**Pattern:** FFKJJ
-**maxNumberOfMismatches:** 1
-Das Pattern wird an Stelle **7** im Text gefunden. Das G und das K stimmen zwar nicht ¨uberein, da
+#### Beispiel:  
+**Text:** GDFGHJDFFGJJGHJTYREYWERWETYDSGF  
+**Pattern:** FFKJJ  
+**maxNumberOfMismatches:** 1  
+  
+**Pos:** 012345678  
+**Text:** GDFGHJDFFGJJGHJTYREYWERWETYDSGF  
+**Pattern:** FFKJJ  
+**maxNumberOfMismatches:** 1  
+Das Pattern wird an Stelle **7** im Text gefunden. Das G und das K stimmen zwar nichtüberein, da  
 jedoch 1 Mismatch vorkommen darf ist das ok.  
 
 
